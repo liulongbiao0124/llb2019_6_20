@@ -1,0 +1,103 @@
+﻿/*上方小字部分*/
+.kwap_top{color:#b2b2b4;position:relative;height:62px;min-height:62px;}
+.kwap_top .span_link{position:absolute;left:0;bottom:0;font-size:0.666em;margin-bottom:5px;}
+.kwap_top .span_link a{color:#b2b2b4;text-decoration:none;}
+.kwap_top1{height:initial;min-height:initial;}
+
+/*左边菜单栏*/
+.kwap_sliber{padding:0 10px 0 0;}
+.kwap_sliber ul{list-style:none;padding:0;}
+.kwap_sliber ul li{line-height:50px;padding:0 30px;}
+.kwap_sliber ul li .icon{display:inline-block;background-position:center center;width:22px;height:19px;vertical-align:middle;margin-right:10px;background-size:cover;}
+.kwap_sliber ul li span{float:right;}
+.kwap_sliber ul .hot{color:#fff;background-color:#4496ec;}
+
+/*通用部分*/
+.kwap_right{padding:0px;min-height:500px;}
+
+/*添加考试及考点*/
+.kwap_kc_list{background-color:#fff;padding:15px 0;}
+.kwap_kc_list .kwap_kc_top{border-bottom:1px #eee solid;}
+.kwap_kc_list .kwap_kc_top .kwap_kc_title{padding:5px;border-bottom:1px #4790ec solid;width:150px;color:#4790ec;font-size:18px;}
+.kwap_kc_list .kwap_kc_middle{padding:20px 10px;position:relative;height:75px;}
+.kwap_kc_list .kwap_kc_middle select{height:35px;line-height:35px;margin-right:15px;}
+.kwap_kc_list .kwap_kc_middle .btn_new1{position:absolute;right:10px;background-image:url(../images/c_bjbg.png);color:#fff;margin:0;}
+
+.kwap_kc_list .kwap_kc_bottom .kc_table_list{width:100%;border-top:1px solid #eee;border-left:1px solid #eee;border-spacing:0;/*去掉单元格间隙*/}
+.kwap_kc_list .kwap_kc_bottom .kc_table_list tr{line-height:50px;text-align:center;}
+.kwap_kc_list .kwap_kc_bottom .kc_table_list td{border-bottom:1px solid #eee;border-right:1px solid #eee;}
+.kwap_kc_list .kwap_kc_bottom .p_btn_center{text-align:center;margin:15px 0;}
+.kwap_kc_list .kwap_kc_bottom .p_btn_center a{margin:0 auto;}
+
+/*准考证*/
+.kwap_right_top{height:100px;position:relative;}
+.kwap_right_top h3{text-align:center;}
+.kwap_right_top .btn_new1{position:absolute;right:10px;bottom:10px;background-image:url(../images/c_bjbg.png);color:#fff;}
+
+.kwap_right_bottom .kwap_userinfo{width:100%;border-top:1px solid #eee;border-left:1px solid #eee;border-spacing:0;/*去掉单元格间隙*/}
+.kwap_right_bottom .kwap_userinfo tr{line-height:50px;text-align:center;}
+.kwap_right_bottom .kwap_userinfo td{border-bottom:1px solid #eee;border-right:1px solid #eee;}
+.kwap_right_bottom .kwap_userinfo .td_img{padding:10px 10px 10px 15px;width:122px;height:122px;}
+.kwap_right_bottom .kwap_userinfo .td_nocenter{line-height:50px;text-align:left;padding:0 10px;}
+
+.kwap_right_bottom .kwap_body{padding:15px;}
+.kwap_right_bottom .kwap_body p{margin:0;line-height:30px;}
+.kwap_right_bottom .kwap_body .title{margin:10px 0;font-size:18px;}
+
+/*实验试卷*/
+.kwap_right1_top{height:100px;position:relative;}
+.kwap_right1_top h3{text-align:center;}
+.kwap_right1_top .btn_new1{position:absolute;right:10px;bottom:10px;background-image:url(../images/c_bjbg.png);color:#fff;}
+
+.kwap_right1_bottom{background-color:#fff;}
+.kwap_right1_bottom .body_top_btn .btn_ul{list-style:none;height:65px;padding:15px 20px;margin:0;}
+.kwap_right1_bottom .body_top_btn .btn_ul li{width:80px;float:left;height:100%;line-height:35px;margin-right:15px;}
+.kwap_right1_bottom .body_top_btn .btn_ul .li_btn{text-align:center;border-radius:17.5px;width:120px;}
+.kwap_right1_bottom .body_top_btn .btn_ul .hot{background-image:url(../images/c_bjbg.png);color:#fff;}
+
+.kwap_right1_bottom .body_bottom{clear:both;}
+.kwap_right1_bottom .body_bottom p{border-top:1px #eee solid;padding:15px 20px;margin:0;}
+.kwap_right1_bottom .body_bottom table{width:100%;border-top:1px solid #eee;border-left:1px solid #eee;border-spacing:0;/*去掉单元格间隙*/}
+.kwap_right1_bottom .body_bottom table tr{line-height:30px;}
+.kwap_right1_bottom .body_bottom table td{border-bottom:1px solid #eee;border-right:1px solid #eee;padding:0 5px;word-wrap:break-word;word-break:break-all;}
+.kwap_right1_bottom .body_bottom table .table_center{text-align:center;}
+.kwap_right1_bottom .body_bottom table .td_width_2{width:70px;}
+.kwap_right1_bottom .body_bottom table .td_width_4{width:80px;}
+.kwap_right1_bottom .body_bottom table ul{padding:10px 10px 10px 20px;margin:0;list-style:disc;}
+
+/*人员安排*/
+.kwap_right_bottom .kwap_body_ryap{border-top:1px #eee solid;padding:20px 0px;margin:0 20px;}
+.kwap_right_bottom .kwap_body_ryap ul{padding:0 20px;margin:0;list-style:disc;}
+.kwap_right_bottom .kwap_body_ryap ul li{line-height:40px;}
+
+/*考试注意事项*/
+.kwap_right_bottom .kwap_body1{border-top:1px #eee solid;padding:20px 0px;margin:0 20px;}
+.kwap_right_bottom .kwap_body1 p{margin:0;line-height:30px;}
+.kwap_right_bottom .kwap_body1 .title{margin:10px 0;font-size:18px;}
+.kwap_right_bottom .kwap_body2{padding:20px 0px;margin:0 20px;}
+.kwap_right_bottom .kwap_body2 p{margin:0;line-height:30px;}
+.kwap_right_bottom .kwap_body2 .title{margin:10px 0;font-size:18px;}
+
+/*基本信息*/
+/*.kwap_right_bottom .kwap_body_ryap{border-top:1px #eee solid;padding:20px 0px;margin:0 20px;}
+.kwap_right_bottom .kwap_body_ryap ul{padding:0 20px;margin:0;list-style:disc;}
+.kwap_right_bottom .kwap_body_ryap ul li{line-height:40px;}*/
+
+/*发布考场安排*/
+
+/*发布人员安排*/
+
+/*考生准考证*/
+
+
+/*左边菜单栏_步骤部分*/
+.kwap_sliber_step{padding: 0 10px 0 0;}
+.kwap_sliber_step .kwap_sliber_title{background-image:url(../images/kwap_03.png);height:80px;background-size:100%;}
+.kwap_sliber_step .kwap_sliber_title p{color:#fff;font-size:20px;padding:10px;margin:0;text-align:center;}
+.kwap_sliber_step .sliber_step{height:159px;padding:20px 10px 20px 50px;background-color:#fff;position:relative;}
+.kwap_sliber_step .sliber_step img{height:119px;width:10px;}
+.kwap_sliber_step .sliber_step .steps{font-size:15px;}
+.kwap_sliber_step .sliber_step .hot{color:#5688ed;}
+.kwap_sliber_step .sliber_step .step_1{position:absolute;left:70px;top:12px;}
+.kwap_sliber_step .sliber_step .step_2{position:absolute;left:70px;top:67px;}
+.kwap_sliber_step .sliber_step .step_3{position:absolute;left:70px;top:120px;}
